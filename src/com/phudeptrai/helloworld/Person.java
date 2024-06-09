@@ -16,7 +16,6 @@ public class Person {
 //  phương thức khởi tạo một đối tượng của class ngay sau khi lưu đối tượng
 //  Constructor không có kiểu trả về
 //  Constructor sẽ giúp cho việc khởi tạo đối tượng trở nên dễ dàng hơn
-
     public Person() {
 
     }
